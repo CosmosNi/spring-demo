@@ -7,6 +7,7 @@ package spring.bean.load;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+import spring.bean.load.factory.UserFactoryBean;
 import spring.bean.load.pojo.User;
 
 /**
@@ -23,6 +24,9 @@ public class SpringBeanLoadDemo1 {
         ApplicationContext ac = new ClassPathXmlApplicationContext("spring/bean/load/xml/spring.xml");
         User u = (User) ac.getBean("user");
         System.out.println(u);
+        // 获取user的factorybean
+        UserFactoryBean factory = (UserFactoryBean) ac.getBean("&user");
+        System.out.println(factory.getUserInfo());
     }
-    
+
 }
