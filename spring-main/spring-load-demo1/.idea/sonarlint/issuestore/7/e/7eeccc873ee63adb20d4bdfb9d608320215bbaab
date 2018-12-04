@@ -1,0 +1,7 @@
+
+%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Âæ“ú
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³Ëÿşÿÿÿÿ
+Isquid:S1135"2Complete the task associated to this TODO comment.(Ìûû

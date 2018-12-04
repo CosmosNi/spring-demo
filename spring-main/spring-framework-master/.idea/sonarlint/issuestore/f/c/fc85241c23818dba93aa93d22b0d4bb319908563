@@ -1,0 +1,20 @@
+
+Rsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+nsquid:HiddenFieldCheck“"FRename "parentBeanFactory" which hides the field declared at line 115.(¦àôÀıÿÿÿÿ
+osquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(—¾Ööûÿÿÿÿ
+jsquid:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(‹Á
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Â£€Ïÿÿÿÿÿ
+lsquid:HiddenFieldCheck§"DRename "tempClassLoader" which hides the field declared at line 123.(ÕäÃŠûÿÿÿÿ
+nsquid:HiddenFieldCheckÖ"FRename "parentBeanFactory" which hides the field declared at line 115.(¦àôÀıÿÿÿÿ
+lsquid:HiddenFieldCheck "DRename "beanClassLoader" which hides the field declared at line 119.(ÊƒÖŒùÿÿÿÿ
+jsquid:HiddenFieldCheckŞ"BRename "typeConverter" which hides the field declared at line 144.(ÇÈ€áøÿÿÿÿ
+nsquid:HiddenFieldCheckË"FRename "parentBeanFactory" which hides the field declared at line 115.(¦àôÀıÿÿÿÿ
+Rsquid:S1141Ú"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+nsquid:HiddenFieldCheck¿"FRename "parentBeanFactory" which hides the field declared at line 115.(¦àôÀıÿÿÿÿ
+osquid:S3776…
+"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(·¥‡ïøÿÿÿÿ
+isquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(–È•Z
+nsquid:HiddenFieldCheckÃ"FRename "parentBeanFactory" which hides the field declared at line 115.(¦àôÀıÿÿÿÿ
+nsquid:HiddenFieldCheckô"FRename "parentBeanFactory" which hides the field declared at line 115.(¦àôÀıÿÿÿÿ
+osquid:S3776·	"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ğ¤Û‘üÿÿÿÿ
+nsquid:HiddenFieldCheck§"FRename "parentBeanFactory" which hides the field declared at line 115.(¦àôÀıÿÿÿÿ
